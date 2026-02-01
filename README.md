@@ -58,82 +58,82 @@ Data Visualization & Dashboard Design
 
 #### Steps:
 
-Import and clean transactional sales dataset in Excel.
+1. Import and clean transactional sales dataset in Excel.
 
-Create Power Pivot data model for performance aggregation.
+2. Create Power Pivot data model for performance aggregation.
 
-Build KPI cards for Total Revenue, Units Sold, Profit, and Margin %.
+3. Build KPI cards for Total Revenue, Units Sold, Profit, and Margin %.
 
-Create summary visuals for executive-level overview.
+4. Create summary visuals for executive-level overview.
 
-Format dashboard for quick decision-making visibility.
+5. Format dashboard for quick decision-making visibility.
 
 ### Brand Performance Analysis
 #### Steps:
 
-Create pivot tables summarizing revenue and profit by brand.
+1. Create pivot tables summarizing revenue and profit by brand.
 
-Calculate revenue share and profit share contribution.
+2. Calculate revenue share and profit share contribution.
 
-Build bar charts for brand comparison.
+3. Build bar charts for brand comparison.
 
-Highlight top performers (Coca-Cola, Dasani Water, Diet Coke).
+4. Highlight top performers (Coca-Cola, Dasani Water, Diet Coke).
 
-Identify underperforming or growth opportunity brands (Fanta, Powerade).
+5. Identify underperforming or growth opportunity brands (Fanta, Powerade).
 
 ### Regional Sales Analysis
 #### Steps:
 
-Aggregate revenue and profit by region using pivot tables.
+1. Aggregate revenue and profit by region using pivot tables.
 
-Calculate regional contribution percentages.
+2. Calculate regional contribution percentages.
 
-Build geo-map or regional comparison charts.
+3. Build geo-map or regional comparison charts.
 
-Identify high-performance regions (West).
+4. Identify high-performance regions (West).
 
-Detect expansion opportunities (Midwest).
+5. Detect expansion opportunities (Midwest).
 
 ### Seasonal Sales Trend Analysis
 #### Steps:
 
-Create monthly sales pivot summary.
+1. Create monthly sales pivot summary.
 
-Build line chart showing revenue trends across months.
+2. Build line chart showing revenue trends across months.
 
-Identify peak demand months (July, December).
+3. Identify peak demand months (July, December).
 
-Detect low-demand periods (March).
+4. Detect low-demand periods (March).
 
-Support seasonal inventory planning strategy.
+5. Support seasonal inventory planning strategy.
 
 ### Profitability & Margin Intelligence
 #### Steps:
 
-Create calculated Operating Margin measure.
+1. Create calculated Operating Margin measure.
 
-Rank brands by average margin performance.
+2. Rank brands by average margin performance.
 
-Build margin comparison visualizations.
+3. Build margin comparison visualizations.
 
-Identify premium pricing success brands (Coca-Cola, Dasani).
+4. Identify premium pricing success brands (Coca-Cola, Dasani).
 
-Detect margin optimization opportunities (Diet Coke).
+5. Detect margin optimization opportunities (Diet Coke).
 
 ### Dashboard Creation
 #### Steps:
 
-Select most business-impact visuals.
+1. Select most business-impact visuals.
 
-Design executive-friendly dashboard layout.
+2. Design executive-friendly dashboard layout.
 
-Add slicers (Brand, Region, Time).
+3. Add slicers (Brand, Region, Time).
 
-Connect visuals dynamically to data model.
+4. Connect visuals dynamically to data model.
 
-Apply professional dashboard formatting.
+5. Apply professional dashboard formatting.
 
-Test dashboard interactivity and performance.
+6. Test dashboard interactivity and performance.
 
 ### Usage
 
@@ -153,7 +153,7 @@ Microsoft Excel 2016 or later (Power Pivot Enabled)
 
 Clone this repository:
 
-git clone https://github.com/your-username/Beverage-Sales-Dashboard.git
+git clone https://github.com/Malikasad74/Beverage-Sales-Dashboard.git
 
 
 Navigate to project directory:
@@ -167,7 +167,7 @@ Open the Excel dashboard file in Microsoft Excel.
 
 ### Contact Information:
 
-Phone: +91XXXXXXXXXX
+Phone: +918623008114
 
 Email: asadmalik1011@gmail.com
 
