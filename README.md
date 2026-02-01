@@ -174,6 +174,3 @@ Email: asadmalik1011@gmail.com
 LinkedIn: http://www.linkedin.com/in/asad-malik10
 
 GitHub: https://github.com/Malikasad74/Malikasad74
-Where are potential growth opportunities geographically and by brand?
-
-How can pricing and distribution strategy improve profitability?
